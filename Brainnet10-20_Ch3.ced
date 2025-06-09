@@ -1,0 +1,5 @@
+Number	labels	theta	radius	X	Y	Z	sph_theta	sph_phi	sph_radius	type	
+1	Fp1	-15.4	0.407	0.109	0.03	0.0339	15.4	16.7	0.118	EEG	
+2	Fp2	15.5	0.409	0.108	-0.03	0.033	-15.5	16.4	0.117	EEG	
+3	Cz	1.24	0.0472	0.0214	-0.000464	0.143	-1.24	81.5	0.145	EEG	
+									
